@@ -27,3 +27,6 @@ hadoop fs -put ARQUIVO PASTA
 
 Exportar um arquivo 
 hadoop fs -get ARQUIVO
+
+Executar 
+hs mapper.py reducer.py input_1 tutorial_out
