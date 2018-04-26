@@ -16,8 +16,11 @@ hadoop fs -cat ARQUIVO
 Renomear
 hadoop fs -mv ARQUIVO NOVO_NOME
 
-Remover
+Remover arquivo
 hadoop fs -rm ARQUIVO
+
+Remover pasta
+hadoop fs -rm -r PASTA
 
 Criar pastas
 hadoop fs -mkdir PASTA
