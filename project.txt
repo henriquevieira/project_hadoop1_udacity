@@ -1,0 +1,4 @@
+Ao invés de quebrar as vendas por loja, em vez disso, dê uma quebra de vendas por categoria de produto em todas as nossas lojas.
+Encontre o valor monetário para a maior venda individual para cada loja separadamente.
+Encontre o valor total das vendas em todas as lojas e o número total de vendas. Entenda que existe apenas um redutor.
+
