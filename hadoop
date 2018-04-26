@@ -1,0 +1,29 @@
+Listar
+hadoop fs -ls
+
+Colocar um arquivo no HDFS
+hadoop fs -put ARQUIVO
+
+Ver inicio do arquivo
+hadoop fs -head ARQUIVO
+
+Ver fim do arquivo
+hadoop fs -tail ARQUIVO
+
+Visualizar tudo 
+hadoop fs -cat ARQUIVO
+
+Renomear
+hadoop fs -mv ARQUIVO NOVO_NOME
+
+Remover
+hadoop fs -rm ARQUIVO
+
+Criar pastas
+hadoop fs -mkdir PASTA
+
+Colocar um arquivo nessa pasta
+hadoop fs -put ARQUIVO PASTA
+
+Exportar um arquivo 
+hadoop fs -get ARQUIVO
